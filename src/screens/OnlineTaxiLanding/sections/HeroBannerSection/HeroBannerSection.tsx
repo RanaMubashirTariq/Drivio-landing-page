@@ -121,7 +121,7 @@ export const HeroBannerSection = (): JSX.Element => {
             Comes with a very great service, friendly and of course comfortable
             at a very affordable price by all groups, both bottom and top
           </p>
-          <div className="mt-16 flex flex-col sm:flex-row items-center space-y-8 sm:space-y-0 sm:space-x-4 bg-white p-4 rounded-xl shadow-md max-w-lg mx-auto lg:mx-0 max-[1030px]:w-[450px] max-[1030px]:w-[100%]">
+          <div className="mt-16 flex flex-col sm:flex-row items-center space-y-8 sm:space-y-0 sm:space-x-4 bg-white p-4 rounded-xl shadow-md max-w-lg mx-auto lg:mx-0 max-[1030px]:w-[450px] max-[1000px]:w-[100%]">
             <Input
               type="text"
               placeholder="From"
